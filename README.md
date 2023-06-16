@@ -8,7 +8,6 @@ Clone the repository: git clone <repository-url>
 Navigate to the project directory: cd netflix-clone
 Install the dependencies: npm install
 Start the development server: npm start
-Open your browser and visit http://localhost:3000 to view the app.
 Features
 Browse and search for movies
 Watch movie trailers
